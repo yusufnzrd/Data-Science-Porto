@@ -7,4 +7,4 @@ Jr. Data Science
 - Provide an assessment of how the level of satisfaction of each employee by identifying what factors are components of employee satisfaction so that it has an impact on loyalty with EDA
 - Created a simulation to find out how much influence these factors have
 
-[](https://github.com/yusufnzrd/Main/blob/main/attrition.png)
+![](https://github.com/yusufnzrd/Main/blob/main/images/attrition.png)

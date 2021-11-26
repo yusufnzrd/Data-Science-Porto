@@ -10,3 +10,8 @@ Jr. Data Science
 ![](https://github.com/yusufnzrd/Main/blob/main/images/attrition.png)
 
 
+# [Project 2 : Unsupervised Learning Clustering](https://github.com/yusufnzrd/UnsupervisedLearning)
+- Membuat clustering customer pada perusahaan penerbangan
+- Membuat segmentasi customer sehingga dapat diberlakukan perlakuan khusus
+
+

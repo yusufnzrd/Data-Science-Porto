@@ -8,3 +8,5 @@ Jr. Data Science
 - Created a simulation to find out how much influence these factors have
 
 ![](https://github.com/yusufnzrd/Main/blob/main/images/attrition.png)
+
+

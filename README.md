@@ -7,7 +7,7 @@ Jr. Data Science
 - Provide an assessment of how the level of satisfaction of each employee by identifying what factors are components of employee satisfaction so that it has an impact on loyalty with EDA
 - Created a simulation to find out how much influence these factors have
 
-![Attrition](https://github.com/yusufnzrd/Main/blob/main/images/attrition.jpg)
+![Attrition](https://github.com/yusufnzrd/Main/blob/8d21363cf837bb0316dcfc93eb49a7ae06bb3c64/images/attrition.jpg)
 
 
 # [Project 2 : Unsupervised Learning Clustering](https://github.com/yusufnzrd/UnsupervisedLearning)

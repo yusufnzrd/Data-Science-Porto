@@ -11,7 +11,13 @@ Jr. Data Science
 
 
 # [Project 2 : Unsupervised Learning Clustering](https://github.com/yusufnzrd/UnsupervisedLearning)
-- Membuat clustering customer pada perusahaan penerbangan
-- Membuat segmentasi customer sehingga dapat diberlakukan perlakuan khusus
+- Created customer clustering for airlines
+- Created customer segmentation so that special treatment can be applied
+- Provide an assessment of how the level of satisfaction of each customer with EDA
 
+
+# [Project 3 : Supervised Learning Regression](https://github.com/yusufnzrd/Regression)
+- Adding New Features to be Used
+- Created business recomendation for youtubers
+- Created a system to determine what factors influence
 

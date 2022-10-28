@@ -1,4 +1,4 @@
-# Nizar Mochammad Yusuf | Portfolio
+# Nizar Mochammad Yusuf | Data Science Portfolio
 Jr. Data Science
 
 # [Project 1 : Employee Attrition Analysis](https://github.com/yusufnzrd/Project1)
